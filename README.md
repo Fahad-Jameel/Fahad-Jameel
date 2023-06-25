@@ -1,4 +1,4 @@
-![logo](https://github.com/Fahad-Jameel/Fahad-Jameel/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
+![logo](https://github.com/Fahad-Jameel/Fahad-Jameel/blob/main/Banner-Introduction-to-3D-Animation.webp)
 
 <!--
 **Fahad-Jameel/Fahad-Jameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
