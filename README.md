@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahad-jameel&hide=stars&count_private=true&count_public=true&show_icons=true&theme=algolia&border_radius=20)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=fahad-jameel&count_private=true&theme=algolia&border_radius=20)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-jameel&layout=compact&size_weight=-0.5&count_weight=-0.5&show_icons=true&theme=algolia&border_radius=20 )
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-jameel&layout=compact&size_weight=1&count_weight=1&show_icons=true&theme=algolia&border_radius=20 )
 
 </div>
 
