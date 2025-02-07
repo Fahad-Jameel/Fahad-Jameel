@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 <div class="stats" align="center">
 
 
-  ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahad-jameel&hide=stars&count_private=true&count_public=true&show_icons=true&theme=algolia&border_radius=20)
+
+  ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahad-Jameel&hide=stars&count_private=true&count_public=true&show_icons=true&theme=algolia&border_radius=20)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=fahad-jameel&count_private=true&theme=algolia&border_radius=20)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-jameel&layout=compact&size_weight=1&count_weight=1&show_icons=true&theme=algolia&border_radius=20 )
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Fahad-Jameel&count_private=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Jameel&size_weight=1&count_weight=0&layout=compact&size_show_icons=true&theme=algolia&border_radius=20 )
 
 </div>
 
